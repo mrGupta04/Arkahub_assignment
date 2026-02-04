@@ -1,0 +1,3006 @@
+{
+  "total": 500,
+  "timestamp": "2026-02-04T05:29:03.145Z",
+  "devices": [
+    {
+      "sn": "SN-000",
+      "power": "0.30 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:13.873Z"
+    },
+    {
+      "sn": "SN-001",
+      "power": "2.61 kW",
+      "status": "Offline",
+      "last_updated": "2026-02-04T05:28:13.873Z"
+    },
+    {
+      "sn": "SN-002",
+      "power": "0.58 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:13.873Z"
+    },
+    {
+      "sn": "SN-003",
+      "power": "0.58 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:13.873Z"
+    },
+    {
+      "sn": "SN-004",
+      "power": "4.80 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:13.873Z"
+    },
+    {
+      "sn": "SN-005",
+      "power": "4.72 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:13.873Z"
+    },
+    {
+      "sn": "SN-006",
+      "power": "1.25 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:13.873Z"
+    },
+    {
+      "sn": "SN-007",
+      "power": "0.91 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:13.873Z"
+    },
+    {
+      "sn": "SN-008",
+      "power": "3.16 kW",
+      "status": "Offline",
+      "last_updated": "2026-02-04T05:28:13.873Z"
+    },
+    {
+      "sn": "SN-009",
+      "power": "0.14 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:13.873Z"
+    },
+    {
+      "sn": "SN-010",
+      "power": "4.11 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:14.840Z"
+    },
+    {
+      "sn": "SN-011",
+      "power": "3.55 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:14.840Z"
+    },
+    {
+      "sn": "SN-012",
+      "power": "3.82 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:14.840Z"
+    },
+    {
+      "sn": "SN-013",
+      "power": "3.65 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:14.840Z"
+    },
+    {
+      "sn": "SN-014",
+      "power": "2.42 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:14.840Z"
+    },
+    {
+      "sn": "SN-015",
+      "power": "4.47 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:14.840Z"
+    },
+    {
+      "sn": "SN-016",
+      "power": "0.69 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:14.840Z"
+    },
+    {
+      "sn": "SN-017",
+      "power": "4.19 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:14.840Z"
+    },
+    {
+      "sn": "SN-018",
+      "power": "4.21 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:14.840Z"
+    },
+    {
+      "sn": "SN-019",
+      "power": "4.59 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:14.840Z"
+    },
+    {
+      "sn": "SN-020",
+      "power": "0.65 kW",
+      "status": "Offline",
+      "last_updated": "2026-02-04T05:28:15.853Z"
+    },
+    {
+      "sn": "SN-021",
+      "power": "3.90 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:15.853Z"
+    },
+    {
+      "sn": "SN-022",
+      "power": "3.87 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:15.853Z"
+    },
+    {
+      "sn": "SN-023",
+      "power": "2.87 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:15.853Z"
+    },
+    {
+      "sn": "SN-024",
+      "power": "1.60 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:15.853Z"
+    },
+    {
+      "sn": "SN-025",
+      "power": "3.39 kW",
+      "status": "Offline",
+      "last_updated": "2026-02-04T05:28:15.853Z"
+    },
+    {
+      "sn": "SN-026",
+      "power": "2.70 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:15.853Z"
+    },
+    {
+      "sn": "SN-027",
+      "power": "2.20 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:15.853Z"
+    },
+    {
+      "sn": "SN-028",
+      "power": "4.65 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:15.853Z"
+    },
+    {
+      "sn": "SN-029",
+      "power": "0.95 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:15.853Z"
+    },
+    {
+      "sn": "SN-030",
+      "power": "0.97 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:16.855Z"
+    },
+    {
+      "sn": "SN-031",
+      "power": "0.75 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:16.855Z"
+    },
+    {
+      "sn": "SN-032",
+      "power": "0.42 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:16.855Z"
+    },
+    {
+      "sn": "SN-033",
+      "power": "3.80 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:16.855Z"
+    },
+    {
+      "sn": "SN-034",
+      "power": "4.70 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:16.855Z"
+    },
+    {
+      "sn": "SN-035",
+      "power": "0.21 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:16.855Z"
+    },
+    {
+      "sn": "SN-036",
+      "power": "2.20 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:16.855Z"
+    },
+    {
+      "sn": "SN-037",
+      "power": "2.57 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:16.855Z"
+    },
+    {
+      "sn": "SN-038",
+      "power": "2.02 kW",
+      "status": "Offline",
+      "last_updated": "2026-02-04T05:28:16.856Z"
+    },
+    {
+      "sn": "SN-039",
+      "power": "2.05 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:16.856Z"
+    },
+    {
+      "sn": "SN-040",
+      "power": "1.01 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:17.860Z"
+    },
+    {
+      "sn": "SN-041",
+      "power": "1.03 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:17.860Z"
+    },
+    {
+      "sn": "SN-042",
+      "power": "2.93 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:17.860Z"
+    },
+    {
+      "sn": "SN-043",
+      "power": "1.79 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:17.860Z"
+    },
+    {
+      "sn": "SN-044",
+      "power": "4.63 kW",
+      "status": "Offline",
+      "last_updated": "2026-02-04T05:28:17.860Z"
+    },
+    {
+      "sn": "SN-045",
+      "power": "3.76 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:17.860Z"
+    },
+    {
+      "sn": "SN-046",
+      "power": "0.94 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:17.860Z"
+    },
+    {
+      "sn": "SN-047",
+      "power": "1.58 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:17.860Z"
+    },
+    {
+      "sn": "SN-048",
+      "power": "4.17 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:17.860Z"
+    },
+    {
+      "sn": "SN-049",
+      "power": "1.38 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:17.860Z"
+    },
+    {
+      "sn": "SN-050",
+      "power": "0.54 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:18.867Z"
+    },
+    {
+      "sn": "SN-051",
+      "power": "2.83 kW",
+      "status": "Offline",
+      "last_updated": "2026-02-04T05:28:18.867Z"
+    },
+    {
+      "sn": "SN-052",
+      "power": "3.36 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:18.867Z"
+    },
+    {
+      "sn": "SN-053",
+      "power": "4.11 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:18.867Z"
+    },
+    {
+      "sn": "SN-054",
+      "power": "2.55 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:18.867Z"
+    },
+    {
+      "sn": "SN-055",
+      "power": "3.12 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:18.867Z"
+    },
+    {
+      "sn": "SN-056",
+      "power": "2.29 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:18.867Z"
+    },
+    {
+      "sn": "SN-057",
+      "power": "0.60 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:18.867Z"
+    },
+    {
+      "sn": "SN-058",
+      "power": "1.28 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:18.867Z"
+    },
+    {
+      "sn": "SN-059",
+      "power": "3.01 kW",
+      "status": "Offline",
+      "last_updated": "2026-02-04T05:28:18.867Z"
+    },
+    {
+      "sn": "SN-060",
+      "power": "0.26 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:19.881Z"
+    },
+    {
+      "sn": "SN-061",
+      "power": "1.64 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:19.881Z"
+    },
+    {
+      "sn": "SN-062",
+      "power": "1.37 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:19.881Z"
+    },
+    {
+      "sn": "SN-063",
+      "power": "1.38 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:19.881Z"
+    },
+    {
+      "sn": "SN-064",
+      "power": "1.92 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:19.881Z"
+    },
+    {
+      "sn": "SN-065",
+      "power": "1.05 kW",
+      "status": "Offline",
+      "last_updated": "2026-02-04T05:28:19.881Z"
+    },
+    {
+      "sn": "SN-066",
+      "power": "3.02 kW",
+      "status": "Offline",
+      "last_updated": "2026-02-04T05:28:19.881Z"
+    },
+    {
+      "sn": "SN-067",
+      "power": "2.23 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:19.881Z"
+    },
+    {
+      "sn": "SN-068",
+      "power": "2.93 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:19.881Z"
+    },
+    {
+      "sn": "SN-069",
+      "power": "3.05 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:19.881Z"
+    },
+    {
+      "sn": "SN-070",
+      "power": "0.97 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:20.882Z"
+    },
+    {
+      "sn": "SN-071",
+      "power": "4.86 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:20.882Z"
+    },
+    {
+      "sn": "SN-072",
+      "power": "3.83 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:20.882Z"
+    },
+    {
+      "sn": "SN-073",
+      "power": "3.56 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:20.882Z"
+    },
+    {
+      "sn": "SN-074",
+      "power": "0.19 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:20.882Z"
+    },
+    {
+      "sn": "SN-075",
+      "power": "2.06 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:20.882Z"
+    },
+    {
+      "sn": "SN-076",
+      "power": "2.10 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:20.882Z"
+    },
+    {
+      "sn": "SN-077",
+      "power": "4.09 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:20.882Z"
+    },
+    {
+      "sn": "SN-078",
+      "power": "0.31 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:20.882Z"
+    },
+    {
+      "sn": "SN-079",
+      "power": "3.70 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:20.882Z"
+    },
+    {
+      "sn": "SN-080",
+      "power": "1.94 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:21.886Z"
+    },
+    {
+      "sn": "SN-081",
+      "power": "0.35 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:21.886Z"
+    },
+    {
+      "sn": "SN-082",
+      "power": "0.37 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:21.886Z"
+    },
+    {
+      "sn": "SN-083",
+      "power": "0.45 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:21.886Z"
+    },
+    {
+      "sn": "SN-084",
+      "power": "1.60 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:21.886Z"
+    },
+    {
+      "sn": "SN-085",
+      "power": "3.05 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:21.886Z"
+    },
+    {
+      "sn": "SN-086",
+      "power": "0.15 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:21.886Z"
+    },
+    {
+      "sn": "SN-087",
+      "power": "1.80 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:21.886Z"
+    },
+    {
+      "sn": "SN-088",
+      "power": "4.06 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:21.886Z"
+    },
+    {
+      "sn": "SN-089",
+      "power": "0.42 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:21.886Z"
+    },
+    {
+      "sn": "SN-090",
+      "power": "4.30 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:22.889Z"
+    },
+    {
+      "sn": "SN-091",
+      "power": "4.50 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:22.889Z"
+    },
+    {
+      "sn": "SN-092",
+      "power": "4.86 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:22.889Z"
+    },
+    {
+      "sn": "SN-093",
+      "power": "1.84 kW",
+      "status": "Offline",
+      "last_updated": "2026-02-04T05:28:22.889Z"
+    },
+    {
+      "sn": "SN-094",
+      "power": "0.67 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:22.889Z"
+    },
+    {
+      "sn": "SN-095",
+      "power": "2.62 kW",
+      "status": "Offline",
+      "last_updated": "2026-02-04T05:28:22.889Z"
+    },
+    {
+      "sn": "SN-096",
+      "power": "1.22 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:22.889Z"
+    },
+    {
+      "sn": "SN-097",
+      "power": "2.13 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:22.889Z"
+    },
+    {
+      "sn": "SN-098",
+      "power": "2.99 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:22.889Z"
+    },
+    {
+      "sn": "SN-099",
+      "power": "4.04 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:22.889Z"
+    },
+    {
+      "sn": "SN-100",
+      "power": "0.06 kW",
+      "status": "Offline",
+      "last_updated": "2026-02-04T05:28:23.894Z"
+    },
+    {
+      "sn": "SN-101",
+      "power": "3.49 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:23.894Z"
+    },
+    {
+      "sn": "SN-102",
+      "power": "1.79 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:23.894Z"
+    },
+    {
+      "sn": "SN-103",
+      "power": "3.97 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:23.894Z"
+    },
+    {
+      "sn": "SN-104",
+      "power": "4.11 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:23.894Z"
+    },
+    {
+      "sn": "SN-105",
+      "power": "2.91 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:23.894Z"
+    },
+    {
+      "sn": "SN-106",
+      "power": "1.30 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:23.894Z"
+    },
+    {
+      "sn": "SN-107",
+      "power": "4.83 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:23.894Z"
+    },
+    {
+      "sn": "SN-108",
+      "power": "1.79 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:23.894Z"
+    },
+    {
+      "sn": "SN-109",
+      "power": "0.42 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:23.894Z"
+    },
+    {
+      "sn": "SN-110",
+      "power": "1.56 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:24.894Z"
+    },
+    {
+      "sn": "SN-111",
+      "power": "0.79 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:24.894Z"
+    },
+    {
+      "sn": "SN-112",
+      "power": "3.79 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:24.894Z"
+    },
+    {
+      "sn": "SN-113",
+      "power": "3.04 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:24.894Z"
+    },
+    {
+      "sn": "SN-114",
+      "power": "4.22 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:24.894Z"
+    },
+    {
+      "sn": "SN-115",
+      "power": "0.87 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:24.894Z"
+    },
+    {
+      "sn": "SN-116",
+      "power": "4.43 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:24.894Z"
+    },
+    {
+      "sn": "SN-117",
+      "power": "2.08 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:24.894Z"
+    },
+    {
+      "sn": "SN-118",
+      "power": "3.77 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:24.894Z"
+    },
+    {
+      "sn": "SN-119",
+      "power": "0.37 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:24.894Z"
+    },
+    {
+      "sn": "SN-120",
+      "power": "2.77 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:25.901Z"
+    },
+    {
+      "sn": "SN-121",
+      "power": "0.60 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:25.901Z"
+    },
+    {
+      "sn": "SN-122",
+      "power": "4.25 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:25.901Z"
+    },
+    {
+      "sn": "SN-123",
+      "power": "0.87 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:25.901Z"
+    },
+    {
+      "sn": "SN-124",
+      "power": "1.71 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:25.901Z"
+    },
+    {
+      "sn": "SN-125",
+      "power": "2.11 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:25.901Z"
+    },
+    {
+      "sn": "SN-126",
+      "power": "2.96 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:25.901Z"
+    },
+    {
+      "sn": "SN-127",
+      "power": "4.60 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:25.901Z"
+    },
+    {
+      "sn": "SN-128",
+      "power": "3.35 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:25.901Z"
+    },
+    {
+      "sn": "SN-129",
+      "power": "4.87 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:25.901Z"
+    },
+    {
+      "sn": "SN-130",
+      "power": "1.56 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:26.908Z"
+    },
+    {
+      "sn": "SN-131",
+      "power": "0.18 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:26.908Z"
+    },
+    {
+      "sn": "SN-132",
+      "power": "4.25 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:26.908Z"
+    },
+    {
+      "sn": "SN-133",
+      "power": "3.63 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:26.908Z"
+    },
+    {
+      "sn": "SN-134",
+      "power": "0.35 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:26.908Z"
+    },
+    {
+      "sn": "SN-135",
+      "power": "1.82 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:26.908Z"
+    },
+    {
+      "sn": "SN-136",
+      "power": "0.09 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:26.908Z"
+    },
+    {
+      "sn": "SN-137",
+      "power": "4.76 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:26.908Z"
+    },
+    {
+      "sn": "SN-138",
+      "power": "4.17 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:26.908Z"
+    },
+    {
+      "sn": "SN-139",
+      "power": "4.31 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:26.908Z"
+    },
+    {
+      "sn": "SN-140",
+      "power": "1.99 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:27.915Z"
+    },
+    {
+      "sn": "SN-141",
+      "power": "1.05 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:27.915Z"
+    },
+    {
+      "sn": "SN-142",
+      "power": "2.64 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:27.915Z"
+    },
+    {
+      "sn": "SN-143",
+      "power": "4.42 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:27.915Z"
+    },
+    {
+      "sn": "SN-144",
+      "power": "3.70 kW",
+      "status": "Offline",
+      "last_updated": "2026-02-04T05:28:27.915Z"
+    },
+    {
+      "sn": "SN-145",
+      "power": "1.87 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:27.915Z"
+    },
+    {
+      "sn": "SN-146",
+      "power": "3.39 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:27.915Z"
+    },
+    {
+      "sn": "SN-147",
+      "power": "1.69 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:27.915Z"
+    },
+    {
+      "sn": "SN-148",
+      "power": "0.82 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:27.915Z"
+    },
+    {
+      "sn": "SN-149",
+      "power": "4.13 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:27.915Z"
+    },
+    {
+      "sn": "SN-150",
+      "power": "2.13 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:28.922Z"
+    },
+    {
+      "sn": "SN-151",
+      "power": "1.39 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:28.922Z"
+    },
+    {
+      "sn": "SN-152",
+      "power": "4.78 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:28.922Z"
+    },
+    {
+      "sn": "SN-153",
+      "power": "1.69 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:28.922Z"
+    },
+    {
+      "sn": "SN-154",
+      "power": "5.00 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:28.922Z"
+    },
+    {
+      "sn": "SN-155",
+      "power": "1.77 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:28.922Z"
+    },
+    {
+      "sn": "SN-156",
+      "power": "3.04 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:28.922Z"
+    },
+    {
+      "sn": "SN-157",
+      "power": "3.13 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:28.922Z"
+    },
+    {
+      "sn": "SN-158",
+      "power": "1.58 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:28.922Z"
+    },
+    {
+      "sn": "SN-159",
+      "power": "1.81 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:28.922Z"
+    },
+    {
+      "sn": "SN-160",
+      "power": "2.09 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:29.925Z"
+    },
+    {
+      "sn": "SN-161",
+      "power": "4.85 kW",
+      "status": "Offline",
+      "last_updated": "2026-02-04T05:28:29.925Z"
+    },
+    {
+      "sn": "SN-162",
+      "power": "2.75 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:29.925Z"
+    },
+    {
+      "sn": "SN-163",
+      "power": "1.94 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:29.925Z"
+    },
+    {
+      "sn": "SN-164",
+      "power": "1.09 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:29.925Z"
+    },
+    {
+      "sn": "SN-165",
+      "power": "0.39 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:29.925Z"
+    },
+    {
+      "sn": "SN-166",
+      "power": "0.65 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:29.925Z"
+    },
+    {
+      "sn": "SN-167",
+      "power": "2.07 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:29.925Z"
+    },
+    {
+      "sn": "SN-168",
+      "power": "2.88 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:29.925Z"
+    },
+    {
+      "sn": "SN-169",
+      "power": "3.72 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:29.925Z"
+    },
+    {
+      "sn": "SN-170",
+      "power": "0.39 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:30.928Z"
+    },
+    {
+      "sn": "SN-171",
+      "power": "3.78 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:30.928Z"
+    },
+    {
+      "sn": "SN-172",
+      "power": "4.16 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:30.928Z"
+    },
+    {
+      "sn": "SN-173",
+      "power": "4.62 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:30.928Z"
+    },
+    {
+      "sn": "SN-174",
+      "power": "2.05 kW",
+      "status": "Offline",
+      "last_updated": "2026-02-04T05:28:30.928Z"
+    },
+    {
+      "sn": "SN-175",
+      "power": "1.04 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:30.928Z"
+    },
+    {
+      "sn": "SN-176",
+      "power": "3.52 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:30.928Z"
+    },
+    {
+      "sn": "SN-177",
+      "power": "0.48 kW",
+      "status": "Offline",
+      "last_updated": "2026-02-04T05:28:30.928Z"
+    },
+    {
+      "sn": "SN-178",
+      "power": "1.07 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:30.928Z"
+    },
+    {
+      "sn": "SN-179",
+      "power": "1.49 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:30.928Z"
+    },
+    {
+      "sn": "SN-180",
+      "power": "4.26 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:31.935Z"
+    },
+    {
+      "sn": "SN-181",
+      "power": "1.06 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:31.935Z"
+    },
+    {
+      "sn": "SN-182",
+      "power": "1.33 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:31.935Z"
+    },
+    {
+      "sn": "SN-183",
+      "power": "2.46 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:31.935Z"
+    },
+    {
+      "sn": "SN-184",
+      "power": "2.13 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:31.935Z"
+    },
+    {
+      "sn": "SN-185",
+      "power": "0.84 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:31.935Z"
+    },
+    {
+      "sn": "SN-186",
+      "power": "4.90 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:31.935Z"
+    },
+    {
+      "sn": "SN-187",
+      "power": "2.98 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:31.935Z"
+    },
+    {
+      "sn": "SN-188",
+      "power": "2.05 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:31.935Z"
+    },
+    {
+      "sn": "SN-189",
+      "power": "2.01 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:31.935Z"
+    },
+    {
+      "sn": "SN-190",
+      "power": "2.28 kW",
+      "status": "Offline",
+      "last_updated": "2026-02-04T05:28:32.935Z"
+    },
+    {
+      "sn": "SN-191",
+      "power": "0.86 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:32.935Z"
+    },
+    {
+      "sn": "SN-192",
+      "power": "1.00 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:32.935Z"
+    },
+    {
+      "sn": "SN-193",
+      "power": "2.95 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:32.935Z"
+    },
+    {
+      "sn": "SN-194",
+      "power": "4.94 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:32.935Z"
+    },
+    {
+      "sn": "SN-195",
+      "power": "4.41 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:32.935Z"
+    },
+    {
+      "sn": "SN-196",
+      "power": "0.05 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:32.935Z"
+    },
+    {
+      "sn": "SN-197",
+      "power": "0.78 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:32.935Z"
+    },
+    {
+      "sn": "SN-198",
+      "power": "3.24 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:32.935Z"
+    },
+    {
+      "sn": "SN-199",
+      "power": "0.56 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:32.935Z"
+    },
+    {
+      "sn": "SN-200",
+      "power": "0.67 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:33.939Z"
+    },
+    {
+      "sn": "SN-201",
+      "power": "0.91 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:33.939Z"
+    },
+    {
+      "sn": "SN-202",
+      "power": "0.65 kW",
+      "status": "Offline",
+      "last_updated": "2026-02-04T05:28:33.939Z"
+    },
+    {
+      "sn": "SN-203",
+      "power": "2.78 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:33.939Z"
+    },
+    {
+      "sn": "SN-204",
+      "power": "4.32 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:33.939Z"
+    },
+    {
+      "sn": "SN-205",
+      "power": "4.98 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:33.939Z"
+    },
+    {
+      "sn": "SN-206",
+      "power": "4.71 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:33.939Z"
+    },
+    {
+      "sn": "SN-207",
+      "power": "4.13 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:33.939Z"
+    },
+    {
+      "sn": "SN-208",
+      "power": "1.49 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:33.939Z"
+    },
+    {
+      "sn": "SN-209",
+      "power": "2.60 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:33.939Z"
+    },
+    {
+      "sn": "SN-210",
+      "power": "1.62 kW",
+      "status": "Offline",
+      "last_updated": "2026-02-04T05:28:34.942Z"
+    },
+    {
+      "sn": "SN-211",
+      "power": "2.27 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:34.942Z"
+    },
+    {
+      "sn": "SN-212",
+      "power": "0.88 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:34.942Z"
+    },
+    {
+      "sn": "SN-213",
+      "power": "3.82 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:34.942Z"
+    },
+    {
+      "sn": "SN-214",
+      "power": "0.09 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:34.942Z"
+    },
+    {
+      "sn": "SN-215",
+      "power": "4.46 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:34.942Z"
+    },
+    {
+      "sn": "SN-216",
+      "power": "1.54 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:34.942Z"
+    },
+    {
+      "sn": "SN-217",
+      "power": "2.46 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:34.942Z"
+    },
+    {
+      "sn": "SN-218",
+      "power": "0.17 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:34.942Z"
+    },
+    {
+      "sn": "SN-219",
+      "power": "2.88 kW",
+      "status": "Offline",
+      "last_updated": "2026-02-04T05:28:34.942Z"
+    },
+    {
+      "sn": "SN-220",
+      "power": "3.63 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:35.949Z"
+    },
+    {
+      "sn": "SN-221",
+      "power": "4.62 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:35.949Z"
+    },
+    {
+      "sn": "SN-222",
+      "power": "4.65 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:35.949Z"
+    },
+    {
+      "sn": "SN-223",
+      "power": "2.09 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:35.949Z"
+    },
+    {
+      "sn": "SN-224",
+      "power": "2.80 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:35.949Z"
+    },
+    {
+      "sn": "SN-225",
+      "power": "3.47 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:35.949Z"
+    },
+    {
+      "sn": "SN-226",
+      "power": "1.70 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:35.949Z"
+    },
+    {
+      "sn": "SN-227",
+      "power": "4.33 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:35.949Z"
+    },
+    {
+      "sn": "SN-228",
+      "power": "0.34 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:35.949Z"
+    },
+    {
+      "sn": "SN-229",
+      "power": "4.90 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:35.949Z"
+    },
+    {
+      "sn": "SN-230",
+      "power": "4.43 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:36.961Z"
+    },
+    {
+      "sn": "SN-231",
+      "power": "2.98 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:36.961Z"
+    },
+    {
+      "sn": "SN-232",
+      "power": "4.68 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:36.961Z"
+    },
+    {
+      "sn": "SN-233",
+      "power": "3.98 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:36.961Z"
+    },
+    {
+      "sn": "SN-234",
+      "power": "4.97 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:36.961Z"
+    },
+    {
+      "sn": "SN-235",
+      "power": "2.00 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:36.961Z"
+    },
+    {
+      "sn": "SN-236",
+      "power": "1.66 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:36.961Z"
+    },
+    {
+      "sn": "SN-237",
+      "power": "4.66 kW",
+      "status": "Offline",
+      "last_updated": "2026-02-04T05:28:36.961Z"
+    },
+    {
+      "sn": "SN-238",
+      "power": "4.17 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:36.961Z"
+    },
+    {
+      "sn": "SN-239",
+      "power": "3.24 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:36.961Z"
+    },
+    {
+      "sn": "SN-240",
+      "power": "4.10 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:37.970Z"
+    },
+    {
+      "sn": "SN-241",
+      "power": "2.29 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:37.970Z"
+    },
+    {
+      "sn": "SN-242",
+      "power": "3.07 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:37.970Z"
+    },
+    {
+      "sn": "SN-243",
+      "power": "2.19 kW",
+      "status": "Offline",
+      "last_updated": "2026-02-04T05:28:37.970Z"
+    },
+    {
+      "sn": "SN-244",
+      "power": "1.55 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:37.970Z"
+    },
+    {
+      "sn": "SN-245",
+      "power": "4.40 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:37.970Z"
+    },
+    {
+      "sn": "SN-246",
+      "power": "0.40 kW",
+      "status": "Offline",
+      "last_updated": "2026-02-04T05:28:37.970Z"
+    },
+    {
+      "sn": "SN-247",
+      "power": "3.40 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:37.970Z"
+    },
+    {
+      "sn": "SN-248",
+      "power": "2.46 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:37.970Z"
+    },
+    {
+      "sn": "SN-249",
+      "power": "1.80 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:37.970Z"
+    },
+    {
+      "sn": "SN-250",
+      "power": "4.05 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:38.978Z"
+    },
+    {
+      "sn": "SN-251",
+      "power": "3.87 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:38.978Z"
+    },
+    {
+      "sn": "SN-252",
+      "power": "2.35 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:38.978Z"
+    },
+    {
+      "sn": "SN-253",
+      "power": "2.18 kW",
+      "status": "Offline",
+      "last_updated": "2026-02-04T05:28:38.978Z"
+    },
+    {
+      "sn": "SN-254",
+      "power": "3.90 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:38.978Z"
+    },
+    {
+      "sn": "SN-255",
+      "power": "4.89 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:38.978Z"
+    },
+    {
+      "sn": "SN-256",
+      "power": "0.55 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:38.978Z"
+    },
+    {
+      "sn": "SN-257",
+      "power": "4.26 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:38.978Z"
+    },
+    {
+      "sn": "SN-258",
+      "power": "4.85 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:38.978Z"
+    },
+    {
+      "sn": "SN-259",
+      "power": "4.37 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:38.978Z"
+    },
+    {
+      "sn": "SN-260",
+      "power": "1.77 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:39.983Z"
+    },
+    {
+      "sn": "SN-261",
+      "power": "3.83 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:39.983Z"
+    },
+    {
+      "sn": "SN-262",
+      "power": "1.00 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:39.983Z"
+    },
+    {
+      "sn": "SN-263",
+      "power": "1.47 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:39.983Z"
+    },
+    {
+      "sn": "SN-264",
+      "power": "1.86 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:39.983Z"
+    },
+    {
+      "sn": "SN-265",
+      "power": "1.75 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:39.983Z"
+    },
+    {
+      "sn": "SN-266",
+      "power": "1.05 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:39.983Z"
+    },
+    {
+      "sn": "SN-267",
+      "power": "2.59 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:39.983Z"
+    },
+    {
+      "sn": "SN-268",
+      "power": "0.26 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:39.983Z"
+    },
+    {
+      "sn": "SN-269",
+      "power": "4.83 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:39.983Z"
+    },
+    {
+      "sn": "SN-270",
+      "power": "0.60 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:40.997Z"
+    },
+    {
+      "sn": "SN-271",
+      "power": "2.39 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:40.997Z"
+    },
+    {
+      "sn": "SN-272",
+      "power": "4.40 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:40.997Z"
+    },
+    {
+      "sn": "SN-273",
+      "power": "2.05 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:40.997Z"
+    },
+    {
+      "sn": "SN-274",
+      "power": "4.61 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:40.997Z"
+    },
+    {
+      "sn": "SN-275",
+      "power": "4.68 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:40.997Z"
+    },
+    {
+      "sn": "SN-276",
+      "power": "0.10 kW",
+      "status": "Offline",
+      "last_updated": "2026-02-04T05:28:40.997Z"
+    },
+    {
+      "sn": "SN-277",
+      "power": "4.13 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:40.997Z"
+    },
+    {
+      "sn": "SN-278",
+      "power": "3.76 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:40.997Z"
+    },
+    {
+      "sn": "SN-279",
+      "power": "3.90 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:40.997Z"
+    },
+    {
+      "sn": "SN-280",
+      "power": "3.43 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:41.998Z"
+    },
+    {
+      "sn": "SN-281",
+      "power": "0.36 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:41.998Z"
+    },
+    {
+      "sn": "SN-282",
+      "power": "2.76 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:41.998Z"
+    },
+    {
+      "sn": "SN-283",
+      "power": "1.59 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:41.998Z"
+    },
+    {
+      "sn": "SN-284",
+      "power": "1.43 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:41.998Z"
+    },
+    {
+      "sn": "SN-285",
+      "power": "2.23 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:41.998Z"
+    },
+    {
+      "sn": "SN-286",
+      "power": "1.16 kW",
+      "status": "Offline",
+      "last_updated": "2026-02-04T05:28:41.998Z"
+    },
+    {
+      "sn": "SN-287",
+      "power": "4.30 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:41.998Z"
+    },
+    {
+      "sn": "SN-288",
+      "power": "3.66 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:41.998Z"
+    },
+    {
+      "sn": "SN-289",
+      "power": "3.98 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:41.998Z"
+    },
+    {
+      "sn": "SN-290",
+      "power": "0.37 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:43.005Z"
+    },
+    {
+      "sn": "SN-291",
+      "power": "2.05 kW",
+      "status": "Offline",
+      "last_updated": "2026-02-04T05:28:43.005Z"
+    },
+    {
+      "sn": "SN-292",
+      "power": "2.57 kW",
+      "status": "Offline",
+      "last_updated": "2026-02-04T05:28:43.005Z"
+    },
+    {
+      "sn": "SN-293",
+      "power": "3.86 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:43.005Z"
+    },
+    {
+      "sn": "SN-294",
+      "power": "3.54 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:43.005Z"
+    },
+    {
+      "sn": "SN-295",
+      "power": "4.18 kW",
+      "status": "Offline",
+      "last_updated": "2026-02-04T05:28:43.005Z"
+    },
+    {
+      "sn": "SN-296",
+      "power": "4.00 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:43.005Z"
+    },
+    {
+      "sn": "SN-297",
+      "power": "3.50 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:43.005Z"
+    },
+    {
+      "sn": "SN-298",
+      "power": "3.78 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:43.005Z"
+    },
+    {
+      "sn": "SN-299",
+      "power": "2.61 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:43.005Z"
+    },
+    {
+      "sn": "SN-300",
+      "power": "0.48 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:44.018Z"
+    },
+    {
+      "sn": "SN-301",
+      "power": "4.90 kW",
+      "status": "Offline",
+      "last_updated": "2026-02-04T05:28:44.018Z"
+    },
+    {
+      "sn": "SN-302",
+      "power": "3.07 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:44.018Z"
+    },
+    {
+      "sn": "SN-303",
+      "power": "4.45 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:44.018Z"
+    },
+    {
+      "sn": "SN-304",
+      "power": "4.09 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:44.018Z"
+    },
+    {
+      "sn": "SN-305",
+      "power": "1.27 kW",
+      "status": "Offline",
+      "last_updated": "2026-02-04T05:28:44.018Z"
+    },
+    {
+      "sn": "SN-306",
+      "power": "3.24 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:44.018Z"
+    },
+    {
+      "sn": "SN-307",
+      "power": "1.70 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:44.018Z"
+    },
+    {
+      "sn": "SN-308",
+      "power": "4.00 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:44.018Z"
+    },
+    {
+      "sn": "SN-309",
+      "power": "0.06 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:44.018Z"
+    },
+    {
+      "sn": "SN-310",
+      "power": "1.33 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:45.023Z"
+    },
+    {
+      "sn": "SN-311",
+      "power": "3.97 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:45.023Z"
+    },
+    {
+      "sn": "SN-312",
+      "power": "3.51 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:45.023Z"
+    },
+    {
+      "sn": "SN-313",
+      "power": "0.07 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:45.023Z"
+    },
+    {
+      "sn": "SN-314",
+      "power": "2.73 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:45.023Z"
+    },
+    {
+      "sn": "SN-315",
+      "power": "0.67 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:45.023Z"
+    },
+    {
+      "sn": "SN-316",
+      "power": "3.45 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:45.023Z"
+    },
+    {
+      "sn": "SN-317",
+      "power": "3.06 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:45.023Z"
+    },
+    {
+      "sn": "SN-318",
+      "power": "2.92 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:45.023Z"
+    },
+    {
+      "sn": "SN-319",
+      "power": "1.11 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:45.023Z"
+    },
+    {
+      "sn": "SN-320",
+      "power": "3.96 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:46.032Z"
+    },
+    {
+      "sn": "SN-321",
+      "power": "2.44 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:46.032Z"
+    },
+    {
+      "sn": "SN-322",
+      "power": "4.11 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:46.032Z"
+    },
+    {
+      "sn": "SN-323",
+      "power": "0.80 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:46.032Z"
+    },
+    {
+      "sn": "SN-324",
+      "power": "1.43 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:46.032Z"
+    },
+    {
+      "sn": "SN-325",
+      "power": "1.09 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:46.032Z"
+    },
+    {
+      "sn": "SN-326",
+      "power": "3.56 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:46.032Z"
+    },
+    {
+      "sn": "SN-327",
+      "power": "2.63 kW",
+      "status": "Offline",
+      "last_updated": "2026-02-04T05:28:46.032Z"
+    },
+    {
+      "sn": "SN-328",
+      "power": "2.58 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:46.032Z"
+    },
+    {
+      "sn": "SN-329",
+      "power": "2.67 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:46.032Z"
+    },
+    {
+      "sn": "SN-330",
+      "power": "3.85 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:47.032Z"
+    },
+    {
+      "sn": "SN-331",
+      "power": "2.18 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:47.032Z"
+    },
+    {
+      "sn": "SN-332",
+      "power": "3.77 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:47.032Z"
+    },
+    {
+      "sn": "SN-333",
+      "power": "4.57 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:47.032Z"
+    },
+    {
+      "sn": "SN-334",
+      "power": "1.29 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:47.032Z"
+    },
+    {
+      "sn": "SN-335",
+      "power": "2.46 kW",
+      "status": "Offline",
+      "last_updated": "2026-02-04T05:28:47.032Z"
+    },
+    {
+      "sn": "SN-336",
+      "power": "3.71 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:47.032Z"
+    },
+    {
+      "sn": "SN-337",
+      "power": "0.31 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:47.032Z"
+    },
+    {
+      "sn": "SN-338",
+      "power": "3.68 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:47.032Z"
+    },
+    {
+      "sn": "SN-339",
+      "power": "0.64 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:47.032Z"
+    },
+    {
+      "sn": "SN-340",
+      "power": "0.55 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:48.038Z"
+    },
+    {
+      "sn": "SN-341",
+      "power": "4.88 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:48.038Z"
+    },
+    {
+      "sn": "SN-342",
+      "power": "1.17 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:48.038Z"
+    },
+    {
+      "sn": "SN-343",
+      "power": "3.44 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:48.038Z"
+    },
+    {
+      "sn": "SN-344",
+      "power": "0.88 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:48.038Z"
+    },
+    {
+      "sn": "SN-345",
+      "power": "4.08 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:48.038Z"
+    },
+    {
+      "sn": "SN-346",
+      "power": "2.18 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:48.038Z"
+    },
+    {
+      "sn": "SN-347",
+      "power": "0.66 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:48.038Z"
+    },
+    {
+      "sn": "SN-348",
+      "power": "2.65 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:48.038Z"
+    },
+    {
+      "sn": "SN-349",
+      "power": "2.48 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:48.038Z"
+    },
+    {
+      "sn": "SN-350",
+      "power": "3.96 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:49.047Z"
+    },
+    {
+      "sn": "SN-351",
+      "power": "0.56 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:49.047Z"
+    },
+    {
+      "sn": "SN-352",
+      "power": "2.75 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:49.047Z"
+    },
+    {
+      "sn": "SN-353",
+      "power": "1.99 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:49.047Z"
+    },
+    {
+      "sn": "SN-354",
+      "power": "1.50 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:49.047Z"
+    },
+    {
+      "sn": "SN-355",
+      "power": "3.16 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:49.047Z"
+    },
+    {
+      "sn": "SN-356",
+      "power": "0.10 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:49.047Z"
+    },
+    {
+      "sn": "SN-357",
+      "power": "1.18 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:49.047Z"
+    },
+    {
+      "sn": "SN-358",
+      "power": "4.64 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:49.047Z"
+    },
+    {
+      "sn": "SN-359",
+      "power": "4.17 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:49.047Z"
+    },
+    {
+      "sn": "SN-360",
+      "power": "4.69 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:50.052Z"
+    },
+    {
+      "sn": "SN-361",
+      "power": "3.34 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:50.052Z"
+    },
+    {
+      "sn": "SN-362",
+      "power": "0.37 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:50.052Z"
+    },
+    {
+      "sn": "SN-363",
+      "power": "1.70 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:50.052Z"
+    },
+    {
+      "sn": "SN-364",
+      "power": "2.44 kW",
+      "status": "Offline",
+      "last_updated": "2026-02-04T05:28:50.052Z"
+    },
+    {
+      "sn": "SN-365",
+      "power": "0.57 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:50.052Z"
+    },
+    {
+      "sn": "SN-366",
+      "power": "1.97 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:50.052Z"
+    },
+    {
+      "sn": "SN-367",
+      "power": "0.30 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:50.052Z"
+    },
+    {
+      "sn": "SN-368",
+      "power": "3.37 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:50.052Z"
+    },
+    {
+      "sn": "SN-369",
+      "power": "2.60 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:50.052Z"
+    },
+    {
+      "sn": "SN-370",
+      "power": "3.60 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:51.060Z"
+    },
+    {
+      "sn": "SN-371",
+      "power": "4.94 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:51.060Z"
+    },
+    {
+      "sn": "SN-372",
+      "power": "3.10 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:51.060Z"
+    },
+    {
+      "sn": "SN-373",
+      "power": "3.79 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:51.060Z"
+    },
+    {
+      "sn": "SN-374",
+      "power": "1.87 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:51.060Z"
+    },
+    {
+      "sn": "SN-375",
+      "power": "3.08 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:51.060Z"
+    },
+    {
+      "sn": "SN-376",
+      "power": "2.49 kW",
+      "status": "Offline",
+      "last_updated": "2026-02-04T05:28:51.060Z"
+    },
+    {
+      "sn": "SN-377",
+      "power": "2.24 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:51.060Z"
+    },
+    {
+      "sn": "SN-378",
+      "power": "1.20 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:51.060Z"
+    },
+    {
+      "sn": "SN-379",
+      "power": "4.02 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:51.060Z"
+    },
+    {
+      "sn": "SN-380",
+      "power": "4.22 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:52.073Z"
+    },
+    {
+      "sn": "SN-381",
+      "power": "3.76 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:52.073Z"
+    },
+    {
+      "sn": "SN-382",
+      "power": "0.95 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:52.073Z"
+    },
+    {
+      "sn": "SN-383",
+      "power": "1.20 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:52.073Z"
+    },
+    {
+      "sn": "SN-384",
+      "power": "0.44 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:52.073Z"
+    },
+    {
+      "sn": "SN-385",
+      "power": "4.10 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:52.073Z"
+    },
+    {
+      "sn": "SN-386",
+      "power": "3.68 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:52.073Z"
+    },
+    {
+      "sn": "SN-387",
+      "power": "1.71 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:52.073Z"
+    },
+    {
+      "sn": "SN-388",
+      "power": "4.91 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:52.073Z"
+    },
+    {
+      "sn": "SN-389",
+      "power": "3.84 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:52.073Z"
+    },
+    {
+      "sn": "SN-390",
+      "power": "2.39 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:53.080Z"
+    },
+    {
+      "sn": "SN-391",
+      "power": "2.87 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:53.080Z"
+    },
+    {
+      "sn": "SN-392",
+      "power": "0.73 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:53.080Z"
+    },
+    {
+      "sn": "SN-393",
+      "power": "0.75 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:53.080Z"
+    },
+    {
+      "sn": "SN-394",
+      "power": "2.55 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:53.080Z"
+    },
+    {
+      "sn": "SN-395",
+      "power": "4.98 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:53.080Z"
+    },
+    {
+      "sn": "SN-396",
+      "power": "2.17 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:53.080Z"
+    },
+    {
+      "sn": "SN-397",
+      "power": "0.96 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:53.080Z"
+    },
+    {
+      "sn": "SN-398",
+      "power": "1.33 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:53.080Z"
+    },
+    {
+      "sn": "SN-399",
+      "power": "0.91 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:53.080Z"
+    },
+    {
+      "sn": "SN-400",
+      "power": "1.10 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:54.094Z"
+    },
+    {
+      "sn": "SN-401",
+      "power": "1.13 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:54.094Z"
+    },
+    {
+      "sn": "SN-402",
+      "power": "0.41 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:54.094Z"
+    },
+    {
+      "sn": "SN-403",
+      "power": "4.06 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:54.094Z"
+    },
+    {
+      "sn": "SN-404",
+      "power": "3.60 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:54.094Z"
+    },
+    {
+      "sn": "SN-405",
+      "power": "3.41 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:54.094Z"
+    },
+    {
+      "sn": "SN-406",
+      "power": "4.80 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:54.094Z"
+    },
+    {
+      "sn": "SN-407",
+      "power": "1.12 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:54.094Z"
+    },
+    {
+      "sn": "SN-408",
+      "power": "2.67 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:54.094Z"
+    },
+    {
+      "sn": "SN-409",
+      "power": "1.90 kW",
+      "status": "Offline",
+      "last_updated": "2026-02-04T05:28:54.094Z"
+    },
+    {
+      "sn": "SN-410",
+      "power": "1.26 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:55.101Z"
+    },
+    {
+      "sn": "SN-411",
+      "power": "2.33 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:55.101Z"
+    },
+    {
+      "sn": "SN-412",
+      "power": "3.98 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:55.101Z"
+    },
+    {
+      "sn": "SN-413",
+      "power": "2.14 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:55.101Z"
+    },
+    {
+      "sn": "SN-414",
+      "power": "1.59 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:55.101Z"
+    },
+    {
+      "sn": "SN-415",
+      "power": "2.35 kW",
+      "status": "Offline",
+      "last_updated": "2026-02-04T05:28:55.101Z"
+    },
+    {
+      "sn": "SN-416",
+      "power": "4.11 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:55.101Z"
+    },
+    {
+      "sn": "SN-417",
+      "power": "3.14 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:55.101Z"
+    },
+    {
+      "sn": "SN-418",
+      "power": "0.63 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:55.101Z"
+    },
+    {
+      "sn": "SN-419",
+      "power": "3.64 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:55.101Z"
+    },
+    {
+      "sn": "SN-420",
+      "power": "2.56 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:56.108Z"
+    },
+    {
+      "sn": "SN-421",
+      "power": "1.12 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:56.108Z"
+    },
+    {
+      "sn": "SN-422",
+      "power": "2.79 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:56.108Z"
+    },
+    {
+      "sn": "SN-423",
+      "power": "1.15 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:56.108Z"
+    },
+    {
+      "sn": "SN-424",
+      "power": "3.59 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:56.108Z"
+    },
+    {
+      "sn": "SN-425",
+      "power": "1.40 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:56.108Z"
+    },
+    {
+      "sn": "SN-426",
+      "power": "0.11 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:56.108Z"
+    },
+    {
+      "sn": "SN-427",
+      "power": "0.46 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:56.108Z"
+    },
+    {
+      "sn": "SN-428",
+      "power": "3.68 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:56.108Z"
+    },
+    {
+      "sn": "SN-429",
+      "power": "0.32 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:56.108Z"
+    },
+    {
+      "sn": "SN-430",
+      "power": "0.39 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:57.116Z"
+    },
+    {
+      "sn": "SN-431",
+      "power": "3.10 kW",
+      "status": "Offline",
+      "last_updated": "2026-02-04T05:28:57.116Z"
+    },
+    {
+      "sn": "SN-432",
+      "power": "1.28 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:57.116Z"
+    },
+    {
+      "sn": "SN-433",
+      "power": "2.86 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:57.116Z"
+    },
+    {
+      "sn": "SN-434",
+      "power": "4.13 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:57.116Z"
+    },
+    {
+      "sn": "SN-435",
+      "power": "2.15 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:57.116Z"
+    },
+    {
+      "sn": "SN-436",
+      "power": "0.43 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:57.116Z"
+    },
+    {
+      "sn": "SN-437",
+      "power": "2.52 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:57.116Z"
+    },
+    {
+      "sn": "SN-438",
+      "power": "3.33 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:57.116Z"
+    },
+    {
+      "sn": "SN-439",
+      "power": "1.22 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:57.116Z"
+    },
+    {
+      "sn": "SN-440",
+      "power": "2.39 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:58.129Z"
+    },
+    {
+      "sn": "SN-441",
+      "power": "4.38 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:58.129Z"
+    },
+    {
+      "sn": "SN-442",
+      "power": "4.16 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:58.129Z"
+    },
+    {
+      "sn": "SN-443",
+      "power": "4.52 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:58.129Z"
+    },
+    {
+      "sn": "SN-444",
+      "power": "0.62 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:58.129Z"
+    },
+    {
+      "sn": "SN-445",
+      "power": "3.75 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:58.129Z"
+    },
+    {
+      "sn": "SN-446",
+      "power": "0.90 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:58.129Z"
+    },
+    {
+      "sn": "SN-447",
+      "power": "4.12 kW",
+      "status": "Offline",
+      "last_updated": "2026-02-04T05:28:58.129Z"
+    },
+    {
+      "sn": "SN-448",
+      "power": "1.10 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:58.129Z"
+    },
+    {
+      "sn": "SN-449",
+      "power": "0.49 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:58.129Z"
+    },
+    {
+      "sn": "SN-450",
+      "power": "0.13 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:59.128Z"
+    },
+    {
+      "sn": "SN-451",
+      "power": "1.33 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:59.128Z"
+    },
+    {
+      "sn": "SN-452",
+      "power": "0.93 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:59.128Z"
+    },
+    {
+      "sn": "SN-453",
+      "power": "2.14 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:59.128Z"
+    },
+    {
+      "sn": "SN-454",
+      "power": "4.20 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:59.128Z"
+    },
+    {
+      "sn": "SN-455",
+      "power": "0.72 kW",
+      "status": "Offline",
+      "last_updated": "2026-02-04T05:28:59.128Z"
+    },
+    {
+      "sn": "SN-456",
+      "power": "1.05 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:59.128Z"
+    },
+    {
+      "sn": "SN-457",
+      "power": "3.35 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:59.128Z"
+    },
+    {
+      "sn": "SN-458",
+      "power": "4.80 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:59.128Z"
+    },
+    {
+      "sn": "SN-459",
+      "power": "3.58 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:28:59.128Z"
+    },
+    {
+      "sn": "SN-460",
+      "power": "1.94 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:29:00.131Z"
+    },
+    {
+      "sn": "SN-461",
+      "power": "3.61 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:29:00.131Z"
+    },
+    {
+      "sn": "SN-462",
+      "power": "0.42 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:29:00.131Z"
+    },
+    {
+      "sn": "SN-463",
+      "power": "1.70 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:29:00.131Z"
+    },
+    {
+      "sn": "SN-464",
+      "power": "3.77 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:29:00.131Z"
+    },
+    {
+      "sn": "SN-465",
+      "power": "2.51 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:29:00.131Z"
+    },
+    {
+      "sn": "SN-466",
+      "power": "3.99 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:29:00.131Z"
+    },
+    {
+      "sn": "SN-467",
+      "power": "2.58 kW",
+      "status": "Offline",
+      "last_updated": "2026-02-04T05:29:00.131Z"
+    },
+    {
+      "sn": "SN-468",
+      "power": "2.36 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:29:00.131Z"
+    },
+    {
+      "sn": "SN-469",
+      "power": "1.44 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:29:00.131Z"
+    },
+    {
+      "sn": "SN-470",
+      "power": "4.74 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:29:01.143Z"
+    },
+    {
+      "sn": "SN-471",
+      "power": "1.70 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:29:01.143Z"
+    },
+    {
+      "sn": "SN-472",
+      "power": "2.84 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:29:01.143Z"
+    },
+    {
+      "sn": "SN-473",
+      "power": "0.07 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:29:01.143Z"
+    },
+    {
+      "sn": "SN-474",
+      "power": "4.40 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:29:01.143Z"
+    },
+    {
+      "sn": "SN-475",
+      "power": "4.87 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:29:01.143Z"
+    },
+    {
+      "sn": "SN-476",
+      "power": "1.11 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:29:01.143Z"
+    },
+    {
+      "sn": "SN-477",
+      "power": "4.31 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:29:01.143Z"
+    },
+    {
+      "sn": "SN-478",
+      "power": "2.73 kW",
+      "status": "Offline",
+      "last_updated": "2026-02-04T05:29:01.143Z"
+    },
+    {
+      "sn": "SN-479",
+      "power": "1.68 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:29:01.143Z"
+    },
+    {
+      "sn": "SN-480",
+      "power": "3.28 kW",
+      "status": "Offline",
+      "last_updated": "2026-02-04T05:29:02.144Z"
+    },
+    {
+      "sn": "SN-481",
+      "power": "0.89 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:29:02.144Z"
+    },
+    {
+      "sn": "SN-482",
+      "power": "1.33 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:29:02.144Z"
+    },
+    {
+      "sn": "SN-483",
+      "power": "0.76 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:29:02.144Z"
+    },
+    {
+      "sn": "SN-484",
+      "power": "4.97 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:29:02.144Z"
+    },
+    {
+      "sn": "SN-485",
+      "power": "4.60 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:29:02.144Z"
+    },
+    {
+      "sn": "SN-486",
+      "power": "3.75 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:29:02.144Z"
+    },
+    {
+      "sn": "SN-487",
+      "power": "0.92 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:29:02.144Z"
+    },
+    {
+      "sn": "SN-488",
+      "power": "1.10 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:29:02.144Z"
+    },
+    {
+      "sn": "SN-489",
+      "power": "0.46 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:29:02.144Z"
+    },
+    {
+      "sn": "SN-490",
+      "power": "2.89 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:29:03.150Z"
+    },
+    {
+      "sn": "SN-491",
+      "power": "3.87 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:29:03.150Z"
+    },
+    {
+      "sn": "SN-492",
+      "power": "1.58 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:29:03.150Z"
+    },
+    {
+      "sn": "SN-493",
+      "power": "4.69 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:29:03.150Z"
+    },
+    {
+      "sn": "SN-494",
+      "power": "3.31 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:29:03.150Z"
+    },
+    {
+      "sn": "SN-495",
+      "power": "4.12 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:29:03.150Z"
+    },
+    {
+      "sn": "SN-496",
+      "power": "0.95 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:29:03.150Z"
+    },
+    {
+      "sn": "SN-497",
+      "power": "4.46 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:29:03.150Z"
+    },
+    {
+      "sn": "SN-498",
+      "power": "1.76 kW",
+      "status": "Offline",
+      "last_updated": "2026-02-04T05:29:03.150Z"
+    },
+    {
+      "sn": "SN-499",
+      "power": "3.61 kW",
+      "status": "Online",
+      "last_updated": "2026-02-04T05:29:03.150Z"
+    }
+  ]
+}
